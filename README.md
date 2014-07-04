@@ -1,7 +1,7 @@
 Mine-Twitter
 ============
 
-#Mines twitter data obtained from the twitter API for crude estimate overall sentiment.
+###Mines twitter data obtained from the twitter API for crude estimate overall sentiment.
 
 Mines twitter data obtained from the twitter API for sentiment.
 
