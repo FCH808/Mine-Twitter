@@ -58,6 +58,7 @@ def find_happy(sent_text, tweets_txt):
     delete = 0
     total = 0
 
+    # Git lazy =( Adhoc add.
     happiness = {}
 
     def add_happiness(dict, state_abbrev, current_score):
